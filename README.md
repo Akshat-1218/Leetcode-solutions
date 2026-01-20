@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
+| [1550-three-consecutive-odds](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [2974-minimum-number-game](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
