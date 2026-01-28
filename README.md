@@ -55,6 +55,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3024-type-of-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
