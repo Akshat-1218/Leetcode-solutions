@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
