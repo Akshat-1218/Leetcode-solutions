@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0682-baseball-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
