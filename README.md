@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2974-minimum-number-game](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Counting
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0709-to-lower-case) |
