@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
