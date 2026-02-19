@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0443-string-compression) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
