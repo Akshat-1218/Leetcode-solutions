@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0412-fizz-buzz](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -141,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
