@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [2974-minimum-number-game](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3024-type-of-triangle) |
