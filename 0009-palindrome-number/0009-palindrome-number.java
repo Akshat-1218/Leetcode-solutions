@@ -1,13 +1,16 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int result = x;
-        int sum=0;
-        while(x>0){
-            int ans = x%10;
-            sum=sum*10+ans;
-            x=x/10;
+        int result = 0;
+        int num = x;
+        if(x<0){
+            return false;
         }
-        if(result==sum){
+        while(x>0){
+            int rem = x%10;
+            result = result*10 + rem;
+            x /= 10;
+        }
+        if(result == num){
             return true;
         }
         else{
