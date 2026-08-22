@@ -6,15 +6,15 @@ class Solution {
         for(int i=0;i<nums.length-1;i++){
             if(nums[i] == nums[i+1]-1){
                 count++;
-                maxCount = Math.max(count,maxCount);
+                
             }
             else if(nums[i] == nums[i+1]){
                 continue;
             }
-            else{
-                
+            else{    
                 count = 1;
             }
+            maxCount = Math.max(count,maxCount);
         }
         if(nums.length == 0) return 0;
         return maxCount;
