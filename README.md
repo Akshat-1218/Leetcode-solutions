@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2652-sum-multiples](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
