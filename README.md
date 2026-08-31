@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0796-rotate-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
