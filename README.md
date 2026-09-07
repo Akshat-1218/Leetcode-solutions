@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0412-fizz-buzz](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
