@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1550-three-consecutive-odds](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Monotonic Stack
 |  |
 | ------- |
