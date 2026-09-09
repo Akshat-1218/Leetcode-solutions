@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
