@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0412-fizz-buzz](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -308,4 +310,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
