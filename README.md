@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0410-split-array-largest-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -280,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
