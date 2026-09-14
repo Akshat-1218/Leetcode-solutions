@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
