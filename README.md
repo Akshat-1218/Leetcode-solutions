@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
 | ------- |
