@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
