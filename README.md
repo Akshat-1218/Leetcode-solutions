@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
