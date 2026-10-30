@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Design
 |  |
