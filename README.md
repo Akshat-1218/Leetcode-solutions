@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
 | [1068-product-sales-analysis-i](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1158-market-analysis-i](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1158-market-analysis-i) |
 | [1193-monthly-transactions-i](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1193-monthly-transactions-i) |
