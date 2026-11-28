@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1873-calculate-special-bonus) |
 | [1934-confirmation-rate](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1934-confirmation-rate) |
+| [1965-employees-with-missing-information](https://github.com/Akshat-1218/Leetcode-solutions/tree/master/1965-employees-with-missing-information) |
 ## Design
 |  |
 | ------- |
